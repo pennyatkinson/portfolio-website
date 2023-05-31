@@ -808,7 +808,7 @@ h5 {
         cursor: none;
     }
 
-    div a:hover {
+    .pic:hover {
         text-decoration: none;
     }
 
