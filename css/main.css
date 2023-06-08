@@ -38,7 +38,7 @@ body {
     cursor: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="%23000000" width="20px" height="20px" viewBox="0 0 10.04 10.04"><circle cx="5.02" cy="5.02" r="4.52"/></svg>') 10 10, auto;
     font-weight: 300;
     font-style: normal;
-    font-size: 1.7rem;
+    font-size: 1.5rem;
     color: black;
     overflow-x: hidden !important;
     overflow-y: hidden !important;
@@ -568,8 +568,7 @@ h5 {
     }
 
     body {
-        font-size: 2vw;
-        font-weight: 450;
+        font-size: 1.7vw;
     }
 
     .larger-text {
@@ -668,8 +667,7 @@ h5 {
 /* MOBILE */
 @media only screen and (max-width: 767px) {
     body {
-        font-size: 4vw;
-        font-weight: 400;
+        font-size: 3.5vw;
     }
 
     .homescreen-intro {
