@@ -512,16 +512,19 @@ h3 {
 }
 
 h4 {
-    font-size: 1.2vw;
+    font-size: 2.5rem;
     font-weight: 450;
     overflow: hidden;
+    text-transform: capitalize;
 }
 
 h5 {
-    font-size: 1.2vw;
+    font-size: 2.5rem;
     font-weight: 300;
     overflow: hidden;
 }
+
+
 
 /* MEDIUM DEVICES */
 @media only screen and (max-width: 1200px) {
@@ -659,14 +662,15 @@ h5 {
     }
     
     h4 {
-        font-size: 2.5vw;
+        text-transform: capitalize;
+        font-size: 2.5rem;
         font-weight: 450;
         overflow: hidden;
     }
     
     h5 {
-        font-size: 2.5vw;
-        font-weight: 350;
+        font-size: 2.5rem;
+        font-weight: 300;
         overflow: hidden;
     }
 
@@ -780,7 +784,7 @@ h5 {
     }
 
     h2 {
-        font-size: 6.5vw;
+        font-size: 4.5vw;
         font-weight: 450;
         overflow: hidden;
     }
@@ -793,14 +797,15 @@ h5 {
     }
 
     h4 {
-        font-size: 6.5vw;
+        text-transform: capitalize;
+        font-size: 2.3rem;
         font-weight: 450;
         overflow: hidden;
     }
     
     h5 {
-        font-size: 6.5vw;
-        font-weight: 350;
+        font-size: 2.3rem;
+        font-weight: 300;
         overflow: hidden;
     }
 
